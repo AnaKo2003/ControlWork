@@ -21,3 +21,6 @@ void PrintArray(string[] array)
         Console.Write($"{array[i]} ");
     }
 }
+
+ArraysOfStrings(inputArray, resultArray);
+PrintArray(resultArray);
